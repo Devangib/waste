@@ -1,0 +1,28 @@
+modules
+/////////////////////////////
+ <!--<ul>
+										<li> What is energy</li>
+										<li> types of energy</li>
+										<li> Indian Renewable scenario</li>
+										<li>Goverment policies for Solar power</li>
+										<li> Job Oppurtunities</li>
+										</ul>-->
+										//////////
+/////////////////////////////////////////////////////////
+<!--<p>
+                                                            <ul style="list-style-type:none">
+															<li>Utilization of solar energy</li>
+															<li>Photoelectric effect</li>
+															<li>Photovoltic technology</li>
+															<li>Making of solar Cell</li>
+															<li>Types of PV modules</li>
+															<li>Characteristics of solar cell</li></ul>
+
+	////////////////////////////////////														</
+	                                        <ul>
+														 <li>On grid system</li>
+														 <li>off grid system</li>
+														 <li>hybrid System</li>
+														 <li>Net Metering</li>
+														 <li>Solar angles</li>
+                                                         </ul>

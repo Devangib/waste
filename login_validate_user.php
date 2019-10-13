@@ -1,21 +1,15 @@
-
 <?php
 	
 	
 	
 	session_start();
-
 	require_once 'database_connection.php';
-
 	$uname=$_POST['username'];
 	$password=$_POST['password'];
 	$password1=md5($password);
-
-	$sql = "SELECT email,password FROM course_signup1";
+	$sql = "SELECT * FROM `PublicTable` WHERE `public_email` = '$uname' AND `password` = '$password1'";
 	$result = mysqli_query($con, $sql);
-
 	while($row = mysqli_fetch_assoc($result)) {
-
 		if($row["email"] == $uname && $row["password"] == $password1){
 			$flag = 1;
 			break;
